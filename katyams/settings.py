@@ -58,6 +58,7 @@ DJANGO_INSTALLED_APPS = [
     'meta',
     'meta_mixin',
     'djangocms_page_meta',
+    'foundation6',
 
 ]
 
